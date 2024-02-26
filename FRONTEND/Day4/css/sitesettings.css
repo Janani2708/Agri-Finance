@@ -1,0 +1,58 @@
+.site-settings-outer {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .site-settings-outer button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .site-setting-section {
+    margin-bottom: 20px;
+  }
+  
+  .site-setting-label {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .site-settings-label {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .site-settings-heading-input-tag,
+  .site-settings-textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .site-settings-apply {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+  
+  textarea.site-settings-textarea {
+    height: 150px;
+  }
+  

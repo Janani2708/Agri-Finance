@@ -1,0 +1,77 @@
+.body1 {
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    background-color: rgba(236, 231, 231, 0.8);
+    margin: 0 auto; /* Center horizontally */
+    padding: 30px 40px;
+    border: 2px solid rgba(20, 18, 18, 0.2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    border-radius: 50px;
+    width: 520px;
+  }
+  
+  .body1 h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #4a90e2; /* Blue color for heading */
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto; /* Center horizontally */
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form1 {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .label1 {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333; /* Dark color for labels */
+  }
+  
+  .input1 {
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .buttonx {
+    padding: 10px;
+    width: 100px;
+    background-color: #4a90e2; /* Blue color for button */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 0 auto; /* Center horizontally */
+  }
+  
+  .buttonx:hover {
+    background-color: #357ebd; /* Darker shade of blue on hover */
+  }
+  
+  .p1 {
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #333; /* Dark color for paragraphs */
+  }
+  
+  .display {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center; /* Center text */
+  }
+  
+  .tab {
+    padding-left: 10px;
+  }
+  

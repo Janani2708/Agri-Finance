@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding : 0;
+  box-sizing: border-box;
+  user-select: none;
+  color: black;
+  
+}
+
+
+body,html{
+  width:100lvw;
+  background-Image: "url(https://res.cloudinary.com/dt2cmf3ay/image/upload/v1678250469/cld-sample-4.jpg)"}
