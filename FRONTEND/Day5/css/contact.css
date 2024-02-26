@@ -1,0 +1,81 @@
+.contact-page {
+    padding: 50px;
+    /* background-image: "url('../images/AgriGirl.jpg')" ; */
+    background-color: rgb(155, 113, 113);
+   }
+  
+  .contact-page-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .contact-page-description {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .contact-page-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .contact-info {
+    width: 45%;
+  }
+  
+  .contact-info-title {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }
+  
+  .contact-info p {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .contact-form {
+    width: 45%;
+  }
+  
+  .contact-form-title {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    font-size: 1.2rem;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-group textarea {
+    height: 150px;
+  }
+  
+  .submit-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form-response {
+    font-size: 1.2rem;
+    color: #4caf50;
+    margin-top: 20px;
+  }
+  
