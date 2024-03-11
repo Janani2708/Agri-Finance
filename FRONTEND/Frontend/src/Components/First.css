@@ -1,0 +1,67 @@
+.firsthead{
+    margin-top: 10%;
+    font-size:59px;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.firstbutt{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+width: 100px;
+height: 50px;
+justify-content: center;
+    margin-top: 10%;
+    /* margin-left: 30%; */
+    background-color: #2fcd56;
+    color: #0a0909;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.con{
+    /* background-color:rgb(216, 238, 197); */
+    /* height: 500px;
+    
+    background: rgba(92, 137, 173, 0.5); */
+    border-radius: 20%;
+    width: 500px;
+    margin-top: -15px;
+}
+.firstimage{
+    height: 100vh;
+    width: 100%;
+    background: no-repeat;
+    background-size: cover;
+    position: absolute;
+
+    background-image: url("https://images.unsplash.com/photo-1620200423727-8127f75d7f53?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+.secondbutt{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+width: 100px;
+height: 50px;
+    margin-top: 5%;
+    /* margin-right: 30%; */
+    margin-left: 25%;
+    background-color:#2fcd56;
+    color: #0a0909;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.usericon{
+    margin-top: 10%;
+    justify-content: center;
+    /* margin-left: 30%; */
+    height: 10%;
+    width: 10%;
+}
+.adminicon{
+    margin-left: 29%;
+    /* margin-top: 5%; */
+    height: 10%;
+    width: 10%;
+}

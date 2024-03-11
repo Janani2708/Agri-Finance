@@ -1,0 +1,23 @@
+/* Home.css */
+
+.content-wrapper {
+    position: relative;
+  }
+  
+  .img1 {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Adjust footer position */
+  .mfooter {
+    background-color: rgb(195, 184, 154);
+    color: #fefefe;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+  }
+  

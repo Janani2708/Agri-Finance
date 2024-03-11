@@ -1,0 +1,52 @@
+/* AgricultureFunds.css */
+
+.agriculture-funds-container {
+    text-align: center;
+  }
+  
+  .funds-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .fund-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .fund-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .fund-card h2 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .fund-card p {
+    color: #777;
+    font-size: 1rem;
+    margin-bottom: 8px;
+  }
+  
+  .view-details-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #80d2a2;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .view-details-btn:hover {
+    background-color: #71bba5;
+  }
+  
